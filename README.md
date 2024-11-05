@@ -1,0 +1,12 @@
+# .env format:
+
+```
+PUBLIC_KEY_PATH="_public_key.pem"
+API_PATH_VERSION="/v1"
+DB_HOST=${DB_HOST}
+DB_PORT=5432
+DB_NAME='app_db'
+DB_USER=${DB_USER}
+DB_PASSWORD=${DB_PASSWORD}
+PORT=${APP_PORT}
+```
